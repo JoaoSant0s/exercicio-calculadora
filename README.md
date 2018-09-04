@@ -22,7 +22,7 @@ Para entregar o exercício, responda o [formulário de entrega](https://docs.goo
 
 | Passo | Completou? |
 | ------ | ------ |
-| 1 | **não** |
-| 2 | **não** |
-| 3 | **não** |
-| 4 | **não** |
+| 1 | **sim** |
+| 2 | **sim** |
+| 3 | **sim** |
+| 4 | **sim** |
